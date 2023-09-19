@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @saddafdev
+- 👋 Hi, I’m @sadafHameed
 - 👀 I’m interested in javascript developer job(remote)
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-> sadafhameed46@gmail.com
 
 <!---
